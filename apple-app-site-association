@@ -4,9 +4,7 @@
     "details": [
       {
         "appID": "MST8N9XQQR.com.denisromashov.wearCalc",
-        "paths": [
-          "*"
-        ]
+        "paths": [ "*" ]
       }
     ]
   }
