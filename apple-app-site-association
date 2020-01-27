@@ -1,11 +1,9 @@
 {
-  "applinks": {
-    "apps": [],
-    "details": [
-      {
-        "appID": "MST8N9XQQR.com.denisromashov.wearCalc",
-        "paths": [ "*" ]
-      }
-    ]
-  }
+    "applinks": {
+        "apps": [],
+        "details": [{
+            "appID": "D84W6W5XDR.com.dinarys.aromakava",
+            "paths": ["/category/*"]
+        }]
+    }
 }
